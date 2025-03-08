@@ -1,3 +1,2 @@
 # lib/app.py
-print("Hello World!", end=" ")
-print("Pass this test,please.", end=" ")
+print("Hello World! Pass this test, please.")
